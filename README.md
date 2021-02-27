@@ -1,19 +1,18 @@
 # socks5
 proxy socks5 python script install for server 
 
+(PORT CHANGED ON 38)
+
 instruction
 
-1. referral link for DigitalOcean<br>
-https://m.do.co/c/25a7f93236fc
+1. Create server Debian
 
-2. create server Debian
+2. Upload file to server<br>
+wget https://raw.githubusercontent.com/pervazeakhtar01/socks5/master/proxy.py
 
-3. upload file to server<br>
-wget https://raw.githubusercontent.com/hensly/socks5/master/proxy.py
-
-4. run <br>
+3. run <br>
 python proxy.py
 
-5. type your password for proxy
+4. type your password for proxy
 
-6. wait for the installation to complete
+5. wait for the installation to complete
