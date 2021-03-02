@@ -12,7 +12,7 @@ def main():
         password_proxy =input("type your password here: ")
     os.system("apt-get update")
     os.system("apt-get -y install build-essential libwrap0-dev libpam0g-dev libkrb5-dev libsasl2-dev")
-    os.system("wget --no-check-certificate https://ahmetshin.com/static/dante.tgz")
+    os.system("wget --no-check-certificate https://github.com/pervazeakhtar01/socks5/raw/master/dante.tgz")
     os.system("tar -xvpzf dante.tgz")
     os.system("apt-get -y install libwrap0 libwrap0-dev")
     os.system("apt-get -y install gcc make")
