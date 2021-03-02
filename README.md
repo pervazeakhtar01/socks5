@@ -1,7 +1,8 @@
 # socks5
 proxy socks5 python script install for server 
 
-(PORT CHANGED ON 38)
+(PORT CHANGED ON 38
+and added dante.tgz to github for stable connection)
 
 instruction
 
